@@ -1,11 +1,11 @@
 encoding: utf-8
 
 # SEO相关信息
-title: TMaize Blog
-description: TMaize的个人博客
-keywords: TMaize,Blog,Java,Html,JavaScript
-author: TMaize
-footerText: 'Copyright © 2016 皖ICP备16016174号'
+title: Project OutEdge
+description: OutEdge Offical Website
+keywords: OutEdge,Unity3d,Sandbox
+author: INFaStudio
+footerText: 'Copyright © 2019 INFaStudio'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
@@ -20,7 +20,7 @@ domainUrl: 'http://1057237562.github.io/projectoe'
 baseUrl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://support.qq.com/product/86335
+tucaoUrl: https://www.baidu.com
 
 # 菜单
 menu:
@@ -57,20 +57,3 @@ customPlugins:
     file: 'plugin-click-effect.html'
   - use: false
     file: 'plugin-mathjax.html'
-
-# 友情链接
-links:
-  - title: TMaize的个人博客
-    url: http://blog.tmaize.net
-  - title: 文科中的技术宅
-    url: https://www.townwang.com
-  - title: Auuu Nya Blog
-    url: http://mu1er.cn
-  - title: 春风十里
-    url: https://www.geek-era.com
-  - title: 阿川的个人博客
-    url: https://achuan.io
-  - title: 魏文成博客
-    url: https://www.wwc.ren
-  - title: 06m
-    url: https://www.06m.me
