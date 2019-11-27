@@ -57,3 +57,5 @@ customPlugins:
     file: 'plugin-click-effect.html'
   - use: false
     file: 'plugin-mathjax.html'
+
+theme: jekyll-theme-architect
