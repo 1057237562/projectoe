@@ -1,42 +1,13 @@
 ---
 layout: mypost
-title: 关于我
+title: OutEdge 边界之外
 ---
 
-## Welcome to GitHub Pages
+## 欢迎来到OutEdge官方网站
 
-You can use the [editor on GitHub](https://github.com/1057237562/projectoe/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+OutEdge是一个基于Unity3d开发的沙盒类型游戏，运用MarchingCubes算法，构建了一个平滑的世界供玩家探索，玩家还可以自主制造自定义工具、载具，在游戏中存活下去。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+包含流体模拟、空气动力、热力、化、电学系统，增加游戏可玩性
 
-### Markdown
+独特的工具制造系统，给工具的每一个赋予物理特性。所以在制造工具的同时需要考虑可行性，否则造出来的工具无法使用或容易损坏。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1057237562/projectoe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

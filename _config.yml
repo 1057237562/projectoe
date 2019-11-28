@@ -53,7 +53,7 @@ customPlugins:
     cid: 500581972
   - use: true
     file: 'plugin-baidu-push.html'
-  - use: true
+  - use: false
     file: 'plugin-click-effect.html'
   - use: false
     file: 'plugin-mathjax.html'
