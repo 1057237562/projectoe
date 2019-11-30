@@ -21,3 +21,5 @@ W,A,S,D 控制方向，E键打开背包，空格键跳跃，Ctrl+W,A,S,D 组合�
 ## 网页试玩   
 
 <iframe src="https://1057237562.github.io/projectoe/game/index.html" width="90%" height="720px" frameborder="0"  allowfullscreen> </iframe>
+
+[网页链接](https://1057237562.github.io/projectoe/game/index.html "进入")
