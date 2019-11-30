@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mypost
 title: OutEdge 边界之外
 ---
 
