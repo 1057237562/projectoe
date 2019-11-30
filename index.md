@@ -16,24 +16,14 @@ OutEdge是一个基于Unity3d开发的沙盒类型游戏，运用MarchingCubes�
 
 ## 游戏玩法
 
+W,A,S,D 控制方向，E键打开背包，空格键跳跃，Ctrl+W,A,S,D 组合键疾跑（网页版不支持），斜杠/键打开控制台，左键破坏方块、攻击或使用物品，右键放置方块
+
 ## 网页试玩
 
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | OutEdge</title>
-    <script src="game/TemplateData/UnityProgress.js"></script>
-    <script src="game/Build/UnityLoader.js"></script>
-    <script>
-      var unityInstance = UnityLoader.instantiate("unityContainer", "game/Build/outedge.json", {onProgress: UnityProgress});
-    </script>
-  </head>
-  <body>
-    <div class="webgl-content">
-      <div id="unityContainer" style="width: 960px; height: 600px"></div>
-      <div class="footer">
-        <div class="webgl-logo"></div>
-        <div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
-      </div>
-    </div>
-  </body>
+<iframe  
+ height=850 
+ width=90% 
+ src="https://1057237562.github.io/projectoe/game/index.html"  
+ frameborder=0  
+ allowfullscreen>
+ </iframe>
